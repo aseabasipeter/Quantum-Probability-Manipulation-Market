@@ -9,3 +9,5 @@
 +tests/multiverse-branch-speculation.test.ts,5/8/58d3f495c21b5075d87c9c67191d890b3687cb78
 Z
 *contracts/quantum-uncertainty-hedging.clar,5/1/51ceed7e325c2b78fc2c2c0ad4384f59e152e3ce
+Y
+)tests/quantum-uncertainty-hedging.test.ts,8/b/8b4f89cea9e26bb9d7e625efa6ce7c3220b7ad64
